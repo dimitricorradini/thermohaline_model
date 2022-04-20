@@ -1,2 +1,2 @@
 # thermohaline_model
-Solution of equations showing hysteresis in simplified oceanic current model
+Solution of equations showing hysteresis in simplified ocean current model
